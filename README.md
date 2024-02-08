@@ -4,11 +4,9 @@ ompressor
 
 This Python program allows users to compress files and folders to various compressed file types, such as `.zip`, `.tar`, `.tgz`, etc. The compressed files or folders are saved with a timestamp in the format "name_of_the_folder_date_month_year."
 
-## Group Members
+## Author
 
-- [Your Name]
-- [Group Member 2]
-- [Group Member 3]
+Josiane Ishimwe
 
 ## How to Run
 
